@@ -1,4 +1,4 @@
-webpack + typescript + jquery initial config setup
+## webpack + typescript + jquery initial config setup
 
 
 run `yarn` to install node depencencies
